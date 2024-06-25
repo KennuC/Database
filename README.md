@@ -1,29 +1,19 @@
 # Database
 
 ## Objective
-The objectives for this activity are:
-MySQL
-- create a database.
-- create a table.
-- insert records into the table.
-- retrieve database records.
 
-MongoDB
-- Create a database.
-- Create a collection.
-- Insert database documents.
-- Retrieve database documents.
-
-
-MySQL & MongoDB
+The objectives for this activity are to gain proficiency in managing both MySQL and MongoDB databases through hands-on tasks, including creating databases and tables/collections, inserting records/documents, and retrieving data.
 
 ### Skills Learned
 
-- 
+- Database creation and management.
+- Data insertion and retrieval.
+- Use of SQL and NoSQL databases.
 
 ### Tools Used
 
-- 
+- **MySQL**: For relational database management and querying.
+- **MongoDB**: For NoSQL database management and querying.
 
 ## Steps
 
@@ -37,8 +27,7 @@ Creating a database.
 
 ![image](https://github.com/KennuC/MySQL/assets/131323586/dceb41cf-b509-40c9-bf7c-f35b2d0f9f13)
 
-
-Creating a table of records that will contain vulnerability information from The Open Worldwide Application Security Project (OWASP) Top 10 for 2021 https://owasp.org/www-project-top-ten/.
+Creating a table of records that will contain vulnerability information from The Open Worldwide Application Security Project (OWASP) Top 10 for 2021 [OWASP Top 10](https://owasp.org/www-project-top-ten/).
 
 ![image](https://github.com/KennuC/MySQL/assets/131323586/850560b7-5c8c-48fc-b9d4-544772e6bbaf)
 
