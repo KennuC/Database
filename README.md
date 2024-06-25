@@ -1,8 +1,8 @@
-# Database
+# SQL Basics
 
 ## Objective
 
-The objectives for this activity are to gain proficiency in managing both MySQL and MongoDB databases through hands-on tasks, including creating databases and tables/collections, inserting records/documents, and retrieving data.
+This activity aims to gain proficiency in managing both MySQL and MongoDB databases through hands-on tasks, including creating databases and tables/collections, inserting records/documents, and retrieving data.
 
 ### Skills Learned
 
