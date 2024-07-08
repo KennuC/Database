@@ -1,4 +1,4 @@
-# SQL Basics
+# Database Basics
 
 ## Objective
 
